@@ -44,6 +44,6 @@ I’m also big on growth — learning new things, improving systems, and helping
 
 Always happy to connect with builders, thinkers, and anyone passionate about creating great products.
 
-💼 [LinkedIn]((http://www.linkedin.com/in/anu-adenmosun))
+💼 LinkedIn- http://www.linkedin.com/in/anu-adenmosun
 
-💻 GitHub
+💻 GitHub- https://github.com/anuadenmosun
